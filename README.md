@@ -14,7 +14,6 @@ Bridge the gap between traditional craft and digital commerce.
 
 🛒 AI Product Recommendations – Suggests items based on buyer preferences.
 
-🤖 Chatbot Support – Answers common customer questions and guides them to products.
 
 📊 Analytics Dashboard – Helps artisans track views, clicks, and sales insights.
 
